@@ -1,0 +1,9 @@
+numpy
+sympy
+matplotlib.pyplot
+mpl_toolkits.mplot3d
+time
+scipy
+math
+sys
+pandas

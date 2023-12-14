@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pystatslib
+Version: 0.1.0
+Summary: Python Statistics and Probability library
+Author: ['Michael Dobo', 'Michael Gannon', 'Maia Bolko', 'Nicole Messina']
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: matplotlib.pyplot
+Requires-Dist: time
+Requires-Dist: sympy
+Requires-Dist: sys
+Requires-Dist: math
+Requires-Dist: mpl-toolkits.mplot3d
+

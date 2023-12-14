@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pystatslib
+Version: 0.1.0
+Summary: Python Statistics and Probability library
+Author: ['Michael Dobo', 'Michael Gannon', 'Maia Bolko', 'Nicole Messina']
+License: MIT
